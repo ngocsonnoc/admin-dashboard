@@ -1,0 +1,224 @@
+{
+    "iphone": [
+        {
+            "id": "IP1",
+            "name": "Iphone 11 256GB",
+            "price": 999,
+            "description": " Đánh giá iPhone 11  – Camera nâng cấp, màu sắc trẻ trung",
+            "qty": 22,
+            "image": "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2019/9/11/637037652462548298_11-trang.png"
+        },
+        {
+            "id": "IP2",
+            "name": "Iphone 11 512GB",
+            "price": 1199,
+            "description": "Đánh giá iPhone 11  – Camera nâng cấp, màu sắc trẻ trung",
+            "qty": 22,
+            "image": "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2019/9/11/637037652462548298_11-trang.png"
+        },
+        {
+            "id": "IP3",
+            "name": "Iphone 12 512GB",
+            "price": 1999,
+            "description": " Đánh giá iPhone 11  – Camera nâng cấp, màu sắc trẻ trung",
+            "qty": 22,
+            "image": "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2019/9/11/637037652462548298_11-trang.png"
+        },
+        {
+            "id": "IP4",
+            "name": "Iphone 10 256GB",
+            "price": 999,
+            "description": " Đánh giá iPhone 11  – Camera nâng cấp, màu sắc trẻ trung",
+            "qty": 22,
+            "image": "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2019/9/11/637037652462548298_11-trang.png"
+        },
+        {
+            "id": "IP5",
+            "name": "Iphone XS 256GB",
+            "price": 999,
+            "description": " Đánh giá iPhone 11  – Camera nâng cấp, màu sắc trẻ trung",
+            "qty": 22,
+            "image": "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2019/9/11/637037652462548298_11-trang.png"
+        },
+        {
+            "id": "IP6",
+            "name": "Iphone XS MAX 256GB",
+            "price": 999,
+            "description": " Đánh giá iPhone 11  – Camera nâng cấp, màu sắc trẻ trung",
+            "qty": 0,
+            "image": "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2019/9/11/637037652462548298_11-trang.png"
+        },
+        {
+            "id": "IP7",
+            "name": "Iphone 7 256GB",
+            "price": 599,
+            "description": " Đánh giá iPhone 11  – Camera nâng cấp, màu sắc trẻ trung",
+            "qty": 22,
+            "image": "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2019/9/11/637037652462548298_11-trang.png"
+        },
+        {
+            "id": "IP8",
+            "name": "Iphone 12 256GB",
+            "price": 1999,
+            "description": " Đánh giá iPhone 11  – Camera nâng cấp, màu sắc trẻ trung",
+            "qty": 22,
+            "image": "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2019/9/11/637037652462548298_11-trang.png"
+        },
+        {
+            "id": "IP9",
+            "name": "Iphone 13 256GB",
+            "price": 2999,
+            "description": " Đánh giá iPhone 11  – Camera nâng cấp, màu sắc trẻ trung",
+            "qty": 22,
+            "image": "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2019/9/11/637037652462548298_11-trang.png"
+        }
+    ],
+    "samsung": [
+        {
+            "id": "SS1",
+            "name": "SamSung Galaxy Fold 1  256GB",
+            "price": 999,
+            "description": " Đánh giá SamSung  – Camera nâng cấp, màu sắc trẻ trung",
+            "qty": 22,
+            "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thegioididong.com%2Fdtdd%2Fsamsung-galaxy-a32-4g&psig=AOvVaw0hhNWjgASGRzl66yJXP97A&ust=1630244690774000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCIiUnfDs0_ICFQAAAAAdAAAAABAH"
+        },
+        {
+            "id": "SS2",
+            "name": "SamSung Galaxy Fold 2 512GB",
+            "price": 1199,
+            "description": " Đánh giá SamSung  – Camera nâng cấp, màu sắc trẻ trung",
+            "qty": 22,
+            "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thegioididong.com%2Fdtdd%2Fsamsung-galaxy-a32-4g&psig=AOvVaw0hhNWjgASGRzl66yJXP97A&ust=1630244690774000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCIiUnfDs0_ICFQAAAAAdAAAAABAH"
+        },
+        {
+            "id": "SS3",
+            "name": "SamSung Galaxy A72  512GB",
+            "price": 1999,
+            "description": " Đánh giá SamSung  – Camera nâng cấp, màu sắc trẻ trung",
+            "qty": 22,
+            "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thegioididong.com%2Fdtdd%2Fsamsung-galaxy-a32-4g&psig=AOvVaw0hhNWjgASGRzl66yJXP97A&ust=1630244690774000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCIiUnfDs0_ICFQAAAAAdAAAAABAH"
+        },
+        {
+            "id": "SS4",
+            "name": "SamSung Galaxy A32  256GB",
+            "price": 999,
+            "description": " Đánh giá SamSung  – Camera nâng cấp, màu sắc trẻ trung",
+            "qty": 22,
+            "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thegioididong.com%2Fdtdd%2Fsamsung-galaxy-a32-4g&psig=AOvVaw0hhNWjgASGRzl66yJXP97A&ust=1630244690774000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCIiUnfDs0_ICFQAAAAAdAAAAABAH"
+        },
+        {
+            "id": "SS5",
+            "name": "SamSung Galaxy A33  256GB",
+            "price": 999,
+            "description": " Đánh giá SamSung  – Camera nâng cấp, màu sắc trẻ trung",
+            "qty": 0,
+            "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thegioididong.com%2Fdtdd%2Fsamsung-galaxy-a32-4g&psig=AOvVaw0hhNWjgASGRzl66yJXP97A&ust=1630244690774000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCIiUnfDs0_ICFQAAAAAdAAAAABAH"
+        },
+        {
+            "id": "SS6",
+            "name": "SamSung Galaxy A5 256GB",
+            "price": 999,
+            "description": " Đánh giá SamSung  – Camera nâng cấp, màu sắc trẻ trung",
+            "qty": 0,
+            "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thegioididong.com%2Fdtdd%2Fsamsung-galaxy-a32-4g&psig=AOvVaw0hhNWjgASGRzl66yJXP97A&ust=1630244690774000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCIiUnfDs0_ICFQAAAAAdAAAAABAH"
+        },
+        {
+            "id": "SS7",
+            "name": "SamSung Galaxy Fold 3 256GB",
+            "price": 599,
+            "description": " Đánh giá SamSung  – Camera nâng cấp, màu sắc trẻ trung",
+            "qty": 22,
+            "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thegioididong.com%2Fdtdd%2Fsamsung-galaxy-a32-4g&psig=AOvVaw0hhNWjgASGRzl66yJXP97A&ust=1630244690774000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCIiUnfDs0_ICFQAAAAAdAAAAABAH"
+        },
+        {
+            "id": "SS8",
+            "name": "SamSung Galaxy Fold 4  256GB",
+            "price": 1999,
+            "description": " Đánh giá SamSung  – Camera nâng cấp, màu sắc trẻ trung",
+            "qty": 22,
+            "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thegioididong.com%2Fdtdd%2Fsamsung-galaxy-a32-4g&psig=AOvVaw0hhNWjgASGRzl66yJXP97A&ust=1630244690774000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCIiUnfDs0_ICFQAAAAAdAAAAABAH"
+        },
+        {
+            "id": "SS9",
+            "name": "SamSung Galaxy S9 256GB",
+            "price": 2999,
+            "description": " Đánh giá SamSung  – Camera nâng cấp, màu sắc trẻ trung",
+            "qty": 22,
+            "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thegioididong.com%2Fdtdd%2Fsamsung-galaxy-a32-4g&psig=AOvVaw0hhNWjgASGRzl66yJXP97A&ust=1630244690774000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCIiUnfDs0_ICFQAAAAAdAAAAABAH"
+        }
+    ],
+    "xiaomi": [
+        {
+            "id": "XM1",
+            "name": "XIAOMI MI 10  256GB",
+            "price": 999,
+            "description": " Đánh giá Xiaomi  – Vi xử lý mạnh mẽ, cân mọi loại game",
+            "qty": 22,
+            "image": "https://vn-live-05.slatic.net/p/d3fbbeb30422215ff49f9b548b966681.jpg_2200x2200q80.jpg_.webp"
+        },
+        {
+            "id": "XM2",
+            "name": "XIAOMI MI MIX 2 512GB",
+            "price": 1199,
+            "description": " Đánh giá Xiaomi  – Vi xử lý mạnh mẽ, cân mọi loại game",
+            "qty": 22,
+            "image": "https://vn-live-05.slatic.net/p/d3fbbeb30422215ff49f9b548b966681.jpg_2200x2200q80.jpg_.webp"
+        },
+        {
+            "id": "XM3",
+            "name": "XIAOMI A72  512GB",
+            "price": 999,
+            "description": " Đánh giá Xiaomi  – Vi xử lý mạnh mẽ, cân mọi loại game",
+            "qty": 22,
+            "image": "https://vn-live-05.slatic.net/p/d3fbbeb30422215ff49f9b548b966681.jpg_2200x2200q80.jpg_.webp"
+        },
+        {
+            "id": "XM4",
+            "name": "XIAOMI A32  256GB",
+            "price": 999,
+            "description": " Đánh giá Xiaomi  – Vi xử lý mạnh mẽ, cân mọi loại game",
+            "qty": 22,
+            "image": "https://vn-live-05.slatic.net/p/d3fbbeb30422215ff49f9b548b966681.jpg_2200x2200q80.jpg_.webp"
+        },
+        {
+            "id": "XM5",
+            "name": "XIAOMI A33  256GB",
+            "price": 99,
+            "description": " Đánh giá Xiaomi  – Vi xử lý mạnh mẽ, cân mọi loại game",
+            "qty": 0,
+            "image": "https://vn-live-05.slatic.net/p/d3fbbeb30422215ff49f9b548b966681.jpg_2200x2200q80.jpg_.webp"
+        },
+        {
+            "id": "XM6",
+            "name": "XIAOMI A5 256GB",
+            "price": 999,
+            "description": " Đánh giá Xiaomi  – Vi xử lý mạnh mẽ, cân mọi loại game",
+            "qty": 0,
+            "image": "https://vn-live-05.slatic.net/p/d3fbbeb30422215ff49f9b548b966681.jpg_2200x2200q80.jpg_.webp"
+        },
+        {
+            "id": "XM7",
+            "name": "XIAOMI MI 3 256GB",
+            "price": 599,
+            "description": " Đánh giá Xiaomi  – Vi xử lý mạnh mẽ, cân mọi loại game",
+            "qty": 22,
+            "image": "https://vn-live-05.slatic.net/p/d3fbbeb30422215ff49f9b548b966681.jpg_2200x2200q80.jpg_.webp"
+        },
+        {
+            "id": "XM8",
+            "name": "XIAOMI MI 4  256GB",
+            "price": 1999,
+            "description": " Đánh giá Xiaomi  – Vi xử lý mạnh mẽ, cân mọi loại game",
+            "qty": 22,
+            "image": "https://vn-live-05.slatic.net/p/d3fbbeb30422215ff49f9b548b966681.jpg_2200x2200q80.jpg_.webp"
+        },
+        {
+            "id": "XM9",
+            "name": "XIAOMI S9 256GB",
+            "price": 2999,
+            "description": " Đánh giá Xiaomi  – Vi xử lý mạnh mẽ, cân mọi loại game",
+            "qty": 22,
+            "image": "https://vn-live-05.slatic.net/p/d3fbbeb30422215ff49f9b548b966681.jpg_2200x2200q80.jpg_.webp"
+        }
+    ]
+}

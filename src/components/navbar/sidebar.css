@@ -1,0 +1,101 @@
+.sidebar {
+  min-width: var(--sidebar-width);
+  height: 100vh;
+  position: fixed;
+  left: 0;
+  top: 0;
+  box-shadow: var(--box-shadow);
+  transition: left 1.8s var(--transition-cubic);
+}
+.sidebar__logo {
+  height: 150px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.sidebar__logo > img {
+  height: 45px;
+}
+.sidebar__item {
+  padding: 0 20px;
+}
+.sidebar__item-inner {
+  padding: 15px 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: color 0.3s ease 0s;
+}
+.sidebar__item-inner > i {
+  margin-right: 13px;
+}
+.sidebar__item-inner > span {
+  text-transform: capitalize;
+}
+.sidebar__item-inner:hover {
+  color: var(--second-color);
+}
+.sidebar__item-inner.active {
+  border-radius: var(--border-radius);
+  background-image: linear-gradient(
+    to right,
+    var(--main-color),
+    var(--second-color)
+  );
+  color: var(--txt-white);
+}
+.responsive-nav {
+  position: sticky;
+  width: 10px;
+  margin-left: 10px;
+  color: white;
+  top: 60px;
+  left: 50px;
+  display: none;
+  height: 0;
+}
+.responsive-nav > i:hover {
+  border: 1px solid var(--main-bg);
+}
+.responsive-nav > i {
+  font-size: 50px;
+  cursor: pointer;
+}
+@media screen and (max-width: 992px) {
+  .sidebar {
+    padding: 0;
+    z-index: 900;
+    background-color: var(--second-bg);
+    box-shadow: none;
+    overflow: hidden;
+    position: absolute;
+    left: -300px;
+    transition: all 0.6s var(--transition-cubic);
+    -webkit-transition: all 0.6s;
+  }
+  .sidebar__logo {
+    padding-right: 20px;
+  }
+  .sidebar__content {
+    transition: all 0.3s var(--transition-cubic);
+    -webkit-transition: all 0.2s;
+  }
+  .sidebar.active {
+    display: block;
+    position: fixed;
+    width: 20%;
+    z-index: 110;
+    background-color: var(--main-bg);
+    opacity: 1;
+    left: 0;
+  }
+
+  .responsive-nav {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: var(--txt-color);
+    z-index: 99;
+  }
+}

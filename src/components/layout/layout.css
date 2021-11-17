@@ -1,0 +1,18 @@
+.layout{
+    color: var(--txt-color);
+}
+.layout__content{
+padding-left: var(--sidebar-width);
+min-height: 100vh;
+background: var(--second-bg);
+}
+.layout__content-main{
+    transition: all .8s var(--transition-cubic);
+    -webkit-transition: all 0.8s;
+    padding: 30px;
+}
+@media screen and (max-width: 992px) {
+.layout__content{
+   padding-left: 20px;
+}
+}
